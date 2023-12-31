@@ -4,7 +4,7 @@
 - `cd src`
 - `node app.js` or `npm start`
 
-@@ -19,14 +19,6 @@ A conference call implementation using WebRTC, Socket.io and Node.js. This demo
+@@ A chatApp implementation using , Socket.io and Node.js. This demo
 - Screen Recording
 - Video Recording
 
